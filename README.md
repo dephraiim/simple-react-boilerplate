@@ -15,7 +15,7 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 
 ## Installation
 
-- `git clone git@github.com:dephraiim/simple-react-boilerplate.git`
+- `git clone https://github.com/dephraiim/simple-react-boilerplate.git`
 - cd simple-react-boilerplate
 - npm install
 - npm start
